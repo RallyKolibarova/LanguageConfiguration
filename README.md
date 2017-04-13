@@ -1,0 +1,2 @@
+# LanguageConfiguration
+WebstormProjects
